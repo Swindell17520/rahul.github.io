@@ -1,36 +1,30 @@
-## Welcome to GitHub Pages
+## E- portfolio of Rahul Kothuri
 
-You can use the [editor on GitHub](https://github.com/Swindell17520/rahul.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this portfolio, I will be describing all the projects I have done, which makes me a suitable candidatefor jobs related to full stack development and Machine learning. The projects are listed below:-
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Creating a Financial Budgeting app for the company Automynt AB
 
-### Markdown
+I can't post the code for this project, since I am under a NDA and the code is owned by the company, but I can give a brief overview of what was done. This was a large project, hence it was split into three groups:- UI/UX, Machine Learning and API's. I worked on the UI/UX of the app, which includes frontend development using React Native and Realm React for the backend.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Horizonless- A PC game
 
-```markdown
-Syntax highlighted code block
+This was a group project for the course II1305 Projects in ICT. This project makes use of Unity and C#. This game contains custom made tiles, characters, armor, weapons, items, along with an infinite map generation using Perlin Noise, custom sounds and combat mechanics. It is an open world, 2D retro game. More information regarding the game can be found on our team website linked below:
 
-# Header 1
-## Header 2
-### Header 3
+[Horizonless](https://sites.google.com/view/horizonless/home?authuser=0)
 
-- Bulleted
-- List
+3. DOTA 2 Win Predictor using Neural Networks and Deep Learning
 
-1. Numbered
-2. List
+A course project in which we created a neural network that can predict which team will win given the match id, the Radiant Team composition, the Dire Team composition, and the match duration. It can also tell which hero is best against a certain team composition. The code for the project can be found on my github by following the link below:
 
-**Bold** and _Italic_ and `Code` text
+[DOTA 2 Win Predictor](https://github.com/Swindell17520/ID1214Labs)
 
-[Link](url) and ![Image](src)
-```
+The code is located in the main_project folder.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+4. Random  projects using Python:
 
-### Jekyll Themes
+I have made a bunch of random projects using Python, which include a Youtube downloader, Hangman game and a Text based game called DoomBall. I have also recreated the Asteroids game using better graphics and including sounds and custom sprites. The Asteriod Game has not yet been uploaded to Github, but the other projects can be found on my Github, which is linked below:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Swindell17520/rahul.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Random Projects](https://github.com/Swindell17520/Random-Projects)
 
 ### Support or Contact
 
