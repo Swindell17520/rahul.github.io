@@ -7,12 +7,16 @@ In this portfolio, I will be describing all the projects I have done, which make
 I can't post the code for this project, since I am under a NDA and the code is owned by the company, but I can give a brief overview of what was done. This was a large project, hence it was split into three groups:- UI/UX, Machine Learning and API's. I worked on the UI/UX of the app, which includes frontend development using React Native and Realm React for the backend. These are the following features of the app:-
 
  -> The frontend part of the app consists of a questionnaire that helps the underlying ML algorithm to customize a plan for the user.
+ 
  -> Users are able to customize the plan and choose for how long they want to try it. They can also add custom rewards for meeting the goal and custom penalties for       not meeting the goal.
+ 
  -> The inclusion of a video to explain how the planning process works after the user has completed the questionnaire.
+ 
  ->  There are other tabs available for searching, messages, profile, etc. This is a work in progress.
+ 
  -> The UI was designed with the help of donut charts, bar graphs, video players, buttons and navigation with the help of third party libraries like react native chart     kit, react native paper, react native vector icons, react navigation, react native elements and react player.
+ 
  -> For the backend, I have used Realm, which is a MongoDB database made for React Native applications. I have yet to start working on it.
-
 
 2. Horizonless- A PC game
 
