@@ -1,8 +1,8 @@
 ## E- portfolio of Rahul Kothuri
 
-In this portfolio, I will be describing all the projects I have done, which makes me a suitable candidatefor jobs related to full stack development and Machine learning. The projects are listed below:-
+In this portfolio, I will be describing some of my projects, which makes me a suitable candidatefor jobs related to full stack development and Machine learning. The projects are listed below:-
 
-1. Creating a Financial Budgeting app for the company Automynt AB
+## Creating a Financial Budgeting app for the company Automynt AB
 
 I can't post the code for this project, since I am under a NDA and the code is owned by the company, but I can give a brief overview of what was done. This was a large project, hence it was split into three groups:- UI/UX, Machine Learning and API's. I worked on the UI/UX of the app, which includes frontend development using React Native and Realm React for the backend. These are the following features of the app:-
 
@@ -18,13 +18,13 @@ I can't post the code for this project, since I am under a NDA and the code is o
  
  - For the backend, I have used Realm, which is a MongoDB database made for React Native applications. I have yet to start working on it.
 
-2. Horizonless- A PC game
+## Horizonless- A PC game
 
 This was a group project for the course II1305 Projects in ICT. This project makes use of Unity and C#. This game contains custom made tiles, characters, armor, weapons, items, along with an infinite map generation using Perlin Noise, custom sounds and combat mechanics. It is an open world, 2D retro game. More information regarding the game can be found on our team website linked below:
 
 [Horizonless](https://sites.google.com/view/horizonless/home?authuser=0)
 
-3. DOTA 2 Win Predictor using Neural Networks and Deep Learning
+## DOTA 2 Win Predictor using Neural Networks and Deep Learning
 
 A course project in which we created a neural network that can predict which team will win given the match id, the Radiant Team composition, the Dire Team composition, and the match duration. It can also tell which hero is best against a certain team composition. The code for the project can be found on my github by following the link below:
 
@@ -32,7 +32,7 @@ A course project in which we created a neural network that can predict which tea
 
 The code is located in the main_project folder.
 
-4. Random  projects using Python:
+## Random  projects using Python:
 
 I have made a bunch of random projects using Python, which include a Youtube downloader, Hangman game and a Text based game called DoomBall. I have also recreated the Asteroids game using better graphics and including sounds and custom sprites. The Asteriod Game has not yet been uploaded to Github, but the other projects can be found on my Github, which is linked below:
 
