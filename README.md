@@ -37,6 +37,7 @@ The code is located in the main_project folder.
 I have made a bunch of random projects using Python, which include a Youtube downloader, Hangman game and a Text based game called DoomBall. I have also recreated the Asteroids game using better graphics and including sounds and custom sprites. The Asteriod Game has not yet been uploaded to Github, but the other projects can be found on my Github, which is linked below:
 
 [Random Projects](https://github.com/Swindell17520/Random-Projects)
+Update:- I have added the code for the Asteroids game. It is located in Advanced Projects/Asteroids
 
 ### Support or Contact
 
